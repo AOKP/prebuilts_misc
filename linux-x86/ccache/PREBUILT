@@ -1,6 +1,6 @@
 The objects in this prebuilt directory can be rebuilt
 using the source archive
 
-ccache-3.1.9.tar.*
+ccache-2.4-android-20070905.tar.gz
 
-hosted at <http://ccache.samba.org/download.html>.
+hosted at <http://android.kernel.org/pub/>.
